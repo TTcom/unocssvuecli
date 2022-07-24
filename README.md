@@ -1,5 +1,18 @@
 # unocssvuecli
 
+## Features
+- vue-cli 5
+- unocss 0.44.5
+- unocss/webpack 0.44.5
+
+## vscode extend
+- UnoCSS
+- Carbon Product Icons
+- Iconify IntelliSense
+- Tailwind CSS IntelliSense
+
+
+
 ## Project setup
 ```
 yarn install
